@@ -32,4 +32,4 @@ A modern food delivery website featuring menu browsing, order tracking, and cust
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/tonywabuko/Web-Dev-Project.git
